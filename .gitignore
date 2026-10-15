@@ -9,3 +9,8 @@ prompts/master_context.md
 prompts/custom_instructions.md
 .env
 *.env
+credentials.json
+*.pem
+*.key
+.DS_Store
+*.local
